@@ -2,8 +2,9 @@
 
 Generates a daily one-page "morning brief" you can read locally each
 morning: top stories from Hacker News plus top headlines from Google News,
-rendered as a single readable HTML page, with side-by-side sections and
-today's Shoreditch, London weather in the header.
+rendered as a single readable HTML page — masthead: **The Daily Byte** —
+with side-by-side sections and today's Shoreditch, London weather in the
+header.
 
 ## What it does
 

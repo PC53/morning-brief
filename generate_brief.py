@@ -232,7 +232,7 @@ def render_html(
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Morning Brief &mdash; {dateline}</title>
+<title>The Daily Byte &mdash; {dateline}</title>
 <style>
   body {{
     background: #f4f1ea;
@@ -348,7 +348,7 @@ def render_html(
 </head>
 <body>
   <header>
-    <h1>The Morning Brief</h1>
+    <h1>The Daily Byte</h1>
     <div class="dateline">{dateline}</div>
     {weather_html}
   </header>
